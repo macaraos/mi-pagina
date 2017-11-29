@@ -1,0 +1,107 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+	background-color: #666a6f;
+	width: 100%;
+	height: 80px;
+}
+
+.fa-leaf{
+	color: #76f283;
+}
+
+div .col-4 {
+	color: #fff;
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+div #naturalSnack:hover {
+	color: #76f283;
+	cursor: pointer;
+}
+
+div .col-1 {
+	color: #fff;
+	padding-top: 20px;
+}
+
+div .col-1:hover {
+	color: #76f283;
+	cursor: pointer;
+}
+
+.imagen1 {
+	object-fit: cover;
+	width: 100%;
+	height: 400px;
+	-webkit-filter: contrast(50%);
+}
+
+h1 {
+	text-transform: uppercase;
+	position: relative;
+	text-align: center;
+	bottom: 290px;
+}
+
+.colm {
+	float: right;
+	text-align: center;
+	color: #000;
+}
+
+.stgn {
+	font-size: 30px;
+}
+
+.imgs {
+	width: 300px;
+	height: auto;
+	padding-top: 100px;
+}
+
+button:hover {
+	background-color: #76f283;
+	color: #fff;
+	border-radius: 8px;
+	cursor: pointer;
+}
+
+hr {
+	color: #76f283;
+}
+
+.subInfo {
+	float: right;
+	text-align: center;
+	color: #000;
+	padding-left: 20px;
+	padding-right: 60px;
+}
+
+.puntos {
+	text-decoration: none;
+}
+
+.puntos:hover {
+	color: #76f283;
+	cursor: pointer;
+}
+
+footer{
+	margin-top: 320px;
+	width: 100%;
+	height: 60px;
+	background-color: #666a6f;
+	padding: 1px 0;
+}
+.fin{
+	padding-top: 0px;
+	color: #fff;
+}
